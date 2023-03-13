@@ -1,0 +1,28 @@
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.exe.config
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.pdb
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Properties.Resources.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.pdb
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Frmistatistik.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.frmAnaForm.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Frmgrafik.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.frmgiris.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.exe.config
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.exe
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\bin\Debug\PersonelKayit_sql.pdb
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.frmAnaForm.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.frmgiris.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Frmgrafik.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Frmistatistik.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.Properties.Resources.resources
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.exe
+C:\Users\zera\Desktop\CV\PersonelKayit_sql\obj\Debug\PersonelKayit_sql.pdb
